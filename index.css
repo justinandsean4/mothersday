@@ -1,0 +1,16 @@
+.body{
+  margin-top: 25px;
+  background-color: pink;
+  color: hotpink;
+  text-align: center;
+  font-size: 50px;
+}
+
+.familyImg{
+  height: 75%;
+  transform: rotate(180deg);
+  border-color: hotpink;
+  border-radius: 10px;
+  border-width: 5px;
+  border-style: solid;
+}
